@@ -16,7 +16,7 @@ categories: 混口饭吃
 很简短的一段代码：
 
 
-```
+```python
 #usr/bin/python
 #coding:utf-8
 
